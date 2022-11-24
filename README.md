@@ -4,7 +4,7 @@ Bonjour 👋
 <h3 align="center">Développeur web en formation BAC+2</h3>
 
 
-- 👨‍💻 Vous pouvez consulter mon portfolio à l'adresse suivante [https://kilianolry.github.io/portfolio2/](https://kilianolry.github.io/portfolio2/)
+- 👨‍💻 Vous pouvez consulter mon portfolio à l'adresse suivante : [https://kilianolry.github.io/portfolio2/](https://kilianolry.github.io/portfolio2/)
 
 <h3 align="left">Vous pouvez me contacter sur</h3>
 <p align="left">
