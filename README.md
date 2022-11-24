@@ -1,4 +1,4 @@
-### Bonjour 👋
+Bonjour 👋
 
 <h1 align="center">Je m'appelle Kilian</h1>
 <h3 align="center">Développeur web en formation BAC+2</h3>
