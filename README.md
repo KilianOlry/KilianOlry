@@ -68,6 +68,4 @@ Bonjour 👋
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kilianolry&show_icons=true&locale=en" alt="kilianolry" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kilianolry&show_icons=true&locale=en" alt="kilianolry" />
-</p>
+
