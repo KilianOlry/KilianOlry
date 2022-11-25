@@ -6,8 +6,8 @@ Bonjour 👋
 
 - 👨‍💻 Vous pouvez consulter mon portfolio à l'adresse suivante : [https://kilianolry.github.io/portfolio2/](https://kilianolry.github.io/portfolio2/)
 
-<h3 align="left">Vous pouvez me contacter sur</h3>
-<p align="left">
+<h3 align="center">Vous pouvez me contacter sur</h3>
+<p align="center">
   
 <a href="https://www.linkedin.com/in/kilian-olry-58038b1a6/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kilian olry" height="30" width="40" />
@@ -19,8 +19,8 @@ Bonjour 👋
   
 </p>
 
-<h3 align="left">Compétences</h3>
-<p align="left">
+<h3 align="center">Compétences</h3>
+<p align="center">
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
