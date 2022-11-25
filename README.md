@@ -13,10 +13,6 @@ Bonjour 👋
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kilian olry" height="30" width="40" />
   </a>
   
-<a href="https://discord.gg/kilian" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kilian" height="30" width="40" />
-  </a>
-  
 </p>
 
 <h3 align="center">Compétences</h3>
