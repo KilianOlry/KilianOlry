@@ -10,6 +10,12 @@
 
 ###
 
+###
+
+<h4 align="center">Je travaille actuellement sur les univers Vue.js et Django</h4>
+
+###
+
 <h4 align="center">COMPÉTENCES</h4>
 
 ###
