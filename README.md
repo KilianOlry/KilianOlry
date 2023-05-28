@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">En recherche d'alternance en tant que Concepteur Développeur d'Applications</h2>
+<h2 align="center">En recherche d'une entreprise dans le but de faire la formation Concepteur Développeur d'Applications en alternance au CEFIM</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="center">Je travaille actuellement sur les langages Python et Java</h4>
+<h4 align="center">Je travaille actuellement sur les Technos Angular et Java</h4>
 
 ###
 
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="39" width="72" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" width="72" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="39" width="72" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="39" width="72" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="39" width="72" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="39" width="72" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="39" width="72" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="39" width="72" alt="mysql logo"  />
