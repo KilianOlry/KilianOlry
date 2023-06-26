@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Je suis à la recherche d'une entreprise dans le but de faire la formation Concepteur Développeur d'Applications en alternance au CEFIM</h2>
+<h2 align="center">Actuellement en Bachelor Concepteur développeur d'Applications chez CODA</h2>
 
 ###
 
