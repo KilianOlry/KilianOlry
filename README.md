@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Actuellement en Bachelor Concepteur développeur d'Applications chez CODA</h2>
+<h2 align="center">Actuellement en première année de Bachelor Concepteur développeur d'Applications chez CODA</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="center">Je travaille actuellement sur les Technos Angular et Java</h4>
+<h4 align="center">Je travaille actuellement sur les Technos Angular et PHP</h4>
 
 ###
 
@@ -26,7 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="39" width="72" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" width="72" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="39" width="72" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="39" width="72" alt="angularjs logo"  />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="39" width="72" alt="angularjs logo"  />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="39" width="72" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=symfony" height="39" width="72" alt="symfony logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="39" width="72" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="39" width="72" alt="mysql logo"  />
 </div>
