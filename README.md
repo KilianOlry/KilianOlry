@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Actuellement en première année de Bachelor Concepteur développeur d'Applications chez CODA</h2>
+<h2 align="center">Actuellement en première année de Bachelor Développeur Full Stack chez CODA</h2>
 
 ###
 
