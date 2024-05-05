@@ -31,6 +31,8 @@
   <img src="https://skillicons.dev/icons?i=symfony" height="39" width="72" alt="symfony logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="39" width="72" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="39" width="72" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="39" width="72" alt="salesforce logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="39" width="72" alt="docker logo"  />
 </div>
 
 ###
