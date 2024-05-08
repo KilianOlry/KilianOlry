@@ -1,38 +1,67 @@
-<h2 align="left">👋 Bonjour, Je m'appelle Kilian Olry</h2>
+<h1 align="left">Salut  moi c'est Kilian 👋</h1>
 
 ###
 
-<h2 align="center">Actuellement en première année de Bachelor Développeur Full Stack chez CODA</h2>
+<h2 align="left">Actuellement en première année de Bachelor Développeur Full Stack chez CODA</h2>
 
 ###
 
-<h4 align="center">Vous pouvez consulter mon portfolio à l'adresse suivante : https://kilianolry.fr</h4>
+<p align="center">Vous pouvez consulter mon portfolio à l'adresse suivante : https://kilianolry.fr</p>
 
 ###
 
-###
-
-<h4 align="center">Je travaille actuellement sur les Technos Angular et PHP</h4>
+<h3 align="center">Je travaille actuellement sur les Technos Angular et PHP</h3>
 
 ###
 
-<h4 align="center">COMPÉTENCES</h4>
+<h3 align="left">DESIGN</h3>
 
 ###
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="39" width="72" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="39" width="72" alt="sass logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="39" width="72" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" width="72" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="39" width="72" alt="typescript logo"  />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="39" width="72" alt="angularjs logo"  />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="39" width="72" alt="php logo"  />
-  <img src="https://skillicons.dev/icons?i=symfony" height="39" width="72" alt="symfony logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="39" width="72" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="39" width="72" alt="mysql logo"  />
-  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="39" width="72" alt="salesforce logo"  />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="39" width="72" alt="docker logo"  />
+<div align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="36" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="36" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="36" alt="canva logo"  />
+</div>
+
+###
+
+<h3 align="left">FRONT END</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="36" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="36" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="36" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="36" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="36" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="36" alt="angularjs logo"  />
+</div>
+
+###
+
+<h3 align="left">BACK END</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="36" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge" height="36" alt="symfony logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="36" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="36" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge" height="36" alt="salesforce logo"  />
 </div>
 
 ###
