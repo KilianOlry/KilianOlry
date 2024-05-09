@@ -65,6 +65,17 @@
 </div>
 
 ###
+<h3 align="left">GESTION DE PROJET</h3>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="30" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+</div>
+
+###
 
 <h4 align="center">POUR ME CONTACTER</h4>
 
