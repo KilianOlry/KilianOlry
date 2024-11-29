@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Actuellement en première année de Bachelor Développeur Full Stack chez CODA</h2>
+<h2 align="left">Actuellement en deuxième année de Bachelor Développeur Full Stack chez CODA</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">Je travaille actuellement sur les Technos Angular et PHP</h3>
+<h3 align="center">Je travaille actuellement sur les Technos : React & Java</h3>
 
 ###
 
