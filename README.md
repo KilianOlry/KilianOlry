@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">Je travaille actuellement sur les Technos : React & Java</h3>
+<h3 align="center">Je travaille actuellement sur : React & Spring</h3>
 
 ###
 
