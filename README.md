@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">Je travaille actuellement sur : React & Spring</h3>
+<h3 align="center">Je travaille actuellement sur : React & Fastify</h3>
 
 ###
 
@@ -20,8 +20,6 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="30" alt="canva logo"  />
 </div>
