@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Actuellement en deuxième année de Bachelor Développeur Full Stack chez CODA</h2>
+<h2 align="left">Actuellement en dernière année de mon Bachelor Développeur Full Stack chez CODA</h2>
 
 ###
 
