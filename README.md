@@ -6,11 +6,11 @@
 
 ###
 
-<p align="center">Vous pouvez consulter mon portfolio à l'adresse suivante : https://kilianolry.fr</p>
+<p>Vous pouvez consulter mon portfolio à l'adresse suivante : https://kilianolry.fr</p>
 
 ###
 
-<h3 align="center">Je travaille actuellement sur : React & Fastify</h3>
+<h3>Je travaille actuellement sur : React & Fastify</h3>
 
 ###
 
